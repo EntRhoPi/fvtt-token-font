@@ -1,0 +1,14 @@
+{
+    "name": "token-font",
+    "title": "Token Font Optimizer",
+    "description": "Optimize font sizing for tokens.",
+    "version": "0.0.1",
+    "author": "EntRhoPi",
+    "scripts": ["./token-font.js"],
+    "styles": ["./token-font.css"],
+    "packs": [],
+    "url": "https://github.com/EntRhoPi/fvtt-token-font",
+    "manifest": "https://raw.githubusercontent.com/EntRhoPi/fvtt-token-font/master/module.json",
+    "download": "https://github.com/EntRhoPi/fvtt-token-font/archive/master.zip",
+    "minimumCoreVersion": "0.5.5"
+}
